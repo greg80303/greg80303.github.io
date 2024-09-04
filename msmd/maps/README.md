@@ -7,6 +7,18 @@ map and enable/disable layers to see different aspects of the District.
 
 [DISTRICT MAP](https://felt.com/map/Moutain-Shadows-Metro-Discrict-Arvada-CO-Responsibilities-Map-1NyMDr8xRLej89AyxqqDHnC?loc=39.857712,-105.155628,16.61z) 
 
+## MSMD General Maintenance Budget
+
+This map highlights most of the areas where MSMD spends its general maintenance funds to clean,
+beautify, and preserve the common areas in and around Whisper Creek.  These maintenance duties include:
+* Landscaping, weeding, and watering of grass/tree/shrub areas
+* Native grasses maintenance (beauty bands along sidewalks and fire-protection bands along community fences)
+* Dog waste removal
+* Trail maintenance (mostly weed mitigation)
+* Playground/sports-complex maintenance
+* Retention pond maintenance (as required by the City of Arvada)
+* Snow removal (sidewalks and clubhouse parking lot)
+
 ## Navigation Tips
 
 Basic maps navigation:
