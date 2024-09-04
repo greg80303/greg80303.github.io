@@ -17,7 +17,7 @@ Basic maps navigation:
 ## Legend / Layers 
 
 The map highlights several different aspects of the District's involvement in the Whisper Creek
-community in Arvada, CO. Each unique aspect is captured in a "layer", and you can enable disable
+community in Arvada, CO. Each unique aspect is captured in a "layer", and you can enable/disable
 layers using the legend in the upper left of the screen.
 
 <img src="./images/map-legend.png" width=400>
